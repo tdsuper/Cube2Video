@@ -26,4 +26,4 @@ If you use this package in published work, please cite our paper as
 
 Run instructions
 ---------------
-You should first get the SIFT feature extractor from David Lowe. The code for spherical Delaunay triangulation is also need, which can be downloaded from John Burkardt. Then you can run 'tDemo.m'.
+You should first get the SIFT feature extractor from [David Lowe](http://www.cs.ubc.ca/~lowe/keypoints/). The code for spherical Delaunay triangulation is also need, which can be downloaded from [John Burkardt](http://people.sc.fsu.edu/~jburkardt/m_src/m_src.html). Then you can run 'tDemo.m'.
